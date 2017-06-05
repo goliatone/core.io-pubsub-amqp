@@ -1,9 +1,10 @@
 ## core.io PubSub AMQP
 
 This is a sample project. To get started:
+
 ```
-$ npm i core.io PubSub AMQP
+$ npm i core.io-pubsub-amqp
 ```
 
 ## License
-® License  by goliatone
+® License MIT by goliatone
